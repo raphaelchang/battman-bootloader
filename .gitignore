@@ -31,3 +31,10 @@
 # Debug files
 *.dSYM/
 *.su
+
+*.swp
+*.swn
+*.swo
+
+.dep/
+build/

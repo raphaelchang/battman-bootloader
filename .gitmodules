@@ -1,0 +1,3 @@
+[submodule "infinibatt-library"]
+	path = infinibatt-library
+	url = http://github.com/raphaelchang/infinibatt-library
